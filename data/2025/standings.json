@@ -1,0 +1,102 @@
+[
+  {
+    "roster_id": 2,
+    "owner_id": "1129228562780921856",
+    "display_name": "joaquinpando3",
+    "wins": 10,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1921.78,
+    "points_against": 1634.84
+  },
+  {
+    "roster_id": 5,
+    "owner_id": "1208152663028408320",
+    "display_name": "robertoguzman",
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1848.16,
+    "points_against": 1711.76
+  },
+  {
+    "roster_id": 9,
+    "owner_id": "1120476524852920320",
+    "display_name": "carlosvazquez5",
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1876.16,
+    "points_against": 1778.24
+  },
+  {
+    "roster_id": 3,
+    "owner_id": "1129150156781285376",
+    "display_name": "Alejandrolongo",
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1769.08,
+    "points_against": 1750.92
+  },
+  {
+    "roster_id": 4,
+    "owner_id": "1129149316393791488",
+    "display_name": "ruloelcomeculo",
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1679.94,
+    "points_against": 1709.7
+  },
+  {
+    "roster_id": 1,
+    "owner_id": "1052357736794574848",
+    "display_name": "xxernestitoxx",
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1617.76,
+    "points_against": 1609.36
+  },
+  {
+    "roster_id": 7,
+    "owner_id": "1129149483712966656",
+    "display_name": "Marianojmarina",
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1736.18,
+    "points_against": 1689.16
+  },
+  {
+    "roster_id": 6,
+    "owner_id": "1259973024686288896",
+    "display_name": "ManRobert23",
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1528.72,
+    "points_against": 1662.2
+  },
+  {
+    "roster_id": 8,
+    "owner_id": "997228165233750016",
+    "display_name": "NicoMunera",
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1428.18,
+    "points_against": 1603.54
+  },
+  {
+    "roster_id": 10,
+    "owner_id": "1129150730113343488",
+    "display_name": "ELSACA",
+    "wins": 3,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1453.46,
+    "points_against": 1709.7
+  }
+]

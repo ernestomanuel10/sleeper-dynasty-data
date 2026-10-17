@@ -1,0 +1,59 @@
+[
+  {
+    "created": 1753974013625,
+    "creators": [
+      "1052357736794574848"
+    ],
+    "draft_id": "1256661731090903040",
+    "draft_order": {
+      "1052357736794574848": 5,
+      "1120476524852920320": 10,
+      "1129149316393791488": 2,
+      "1129149483712966656": 3,
+      "1129150156781285376": 6,
+      "1129150730113343488": 8,
+      "1129228562780921856": 9,
+      "1208152663028408320": 1,
+      "1259973024686288896": 7,
+      "997228165233750016": 4
+    },
+    "last_message_id": "1266594801495572481",
+    "last_message_time": 1756342242172,
+    "last_picked": 1756342241362,
+    "league_id": "1256661729216057344",
+    "metadata": {
+      "description": "",
+      "name": "FUCKING DYNASTY🙌🏻",
+      "scoring_type": "dynasty_2qb",
+      "show_team_names": "0"
+    },
+    "season": "2025",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 0,
+      "autopause_end_time": 720,
+      "autopause_start_time": 240,
+      "autostart": 0,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 30,
+      "player_type": 0,
+      "reversal_round": 0,
+      "rounds": 30,
+      "slots_bn": 17,
+      "slots_flex": 2,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_super_flex": 1,
+      "slots_te": 1,
+      "slots_wr": 2,
+      "teams": 10
+    },
+    "sport": "nfl",
+    "start_time": 1756335611996,
+    "status": "complete",
+    "type": "snake"
+  }
+]

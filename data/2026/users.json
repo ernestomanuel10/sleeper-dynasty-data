@@ -1,0 +1,143 @@
+[
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "NicoMunera",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/15d71b5592e07fa4092c802e8a0b7451.jpg",
+      "mention_pn": "on",
+      "team_name": "CupeyBajoFC"
+    },
+    "settings": null,
+    "user_id": "997228165233750016"
+  },
+  {
+    "avatar": "a8f54e71419c6c33e8fa62c97c34fa37",
+    "display_name": "xxernestitoxx",
+    "is_bot": false,
+    "is_owner": true,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "archived": "off",
+      "mention_pn": "on",
+      "team_name": "OKC THUNDER⚡️"
+    },
+    "settings": null,
+    "user_id": "1052357736794574848"
+  },
+  {
+    "avatar": "4f4090e5e9c3941414db40a871e3e909",
+    "display_name": "carlosvazquez5",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1120476524852920320"
+  },
+  {
+    "avatar": "e7af4deab0289b4f5505646424895246",
+    "display_name": "ruloelcomeculo",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/ee679069ca52957eca9fb68b35917775.jpg",
+      "mention_pn": "on",
+      "team_name": "RuloElJudio"
+    },
+    "settings": null,
+    "user_id": "1129149316393791488"
+  },
+  {
+    "avatar": "a92bad7ff487a0ab6ab961f9c52f694c",
+    "display_name": "Marianojmarina",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "avatar": "https://sleepercdn.com/uploads/dc8f344f2a4a7c31ec5a68aa12d8a809.jpg",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1129149483712966656"
+  },
+  {
+    "avatar": "1d2ee8a4cf732fb926d64f5431c9a277",
+    "display_name": "Alejandrolongo",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1129150156781285376"
+  },
+  {
+    "avatar": "82aec8e811b839b8ec25d7b458afd57b",
+    "display_name": "ELSACA",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on",
+      "team_name": " El SACA"
+    },
+    "settings": null,
+    "user_id": "1129150730113343488"
+  },
+  {
+    "avatar": "15d7cf259bc30eab8f6120f45f652fb6",
+    "display_name": "joaquinpando3",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "on",
+      "avatar": "https://sleepercdn.com/uploads/d263914a892dc72dfc0052b5a74452ab.jpg",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1129228562780921856"
+  },
+  {
+    "avatar": "7273ee5c3bdeb998170c04bc738f8c8f",
+    "display_name": "elgato0405",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "allow_sms": "off",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1208152663028408320"
+  },
+  {
+    "avatar": "578c6b253dd7b4bab45382e1af102204",
+    "display_name": "ManRobert23",
+    "is_bot": false,
+    "is_owner": false,
+    "league_id": "1312063648402776064",
+    "metadata": {
+      "allow_pn": "on",
+      "mention_pn": "on"
+    },
+    "settings": null,
+    "user_id": "1259973024686288896"
+  }
+]

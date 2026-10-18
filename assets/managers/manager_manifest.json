@@ -2,8 +2,8 @@
   "league_id": "1312063648402776064",
   "season": "2026",
   "image_base_path": "assets/managers/",
-  "status": "image_files_pending_upload",
-  "note": "Mappings verified from 2026 Sleeper data and user-supplied labeled photos. JPEG binaries must be uploaded separately; do not assume they exist.",
+  "status": "images_uploaded",
+  "note": "All 10 expected JPEG paths verified present and nonempty on GitHub main branch. Visual identity comparison not performed.",
   "managers": [
     {
       "roster_id": 1,
@@ -12,7 +12,7 @@
       "team_name": "OKC THUNDER⚡️",
       "filename": "01_xxernestitoxx.jpg",
       "original_filename": "IMG_3054.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 2,
@@ -21,7 +21,7 @@
       "team_name": null,
       "filename": "02_joaquinpando3.jpg",
       "original_filename": "IMG_5051.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 3,
@@ -30,7 +30,7 @@
       "team_name": null,
       "filename": "03_Alejandrolongo.jpg",
       "original_filename": "IMG_5067.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 4,
@@ -39,7 +39,7 @@
       "team_name": "RuloElJudio",
       "filename": "04_ruloelcomeculo.jpg",
       "original_filename": "IMG_1225.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 5,
@@ -48,7 +48,7 @@
       "team_name": null,
       "filename": "05_elgato0405.jpg",
       "original_filename": "IMG_5063.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 6,
@@ -57,7 +57,7 @@
       "team_name": null,
       "filename": "06_ManRobert23.jpg",
       "original_filename": "IMG_5065.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 7,
@@ -66,7 +66,7 @@
       "team_name": null,
       "filename": "07_Marianojmarina.jpg",
       "original_filename": "IMG_1231.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 8,
@@ -75,7 +75,7 @@
       "team_name": "CupeyBajoFC",
       "filename": "08_NicoMunera.jpg",
       "original_filename": "IMG_1228.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 9,
@@ -84,7 +84,7 @@
       "team_name": null,
       "filename": "09_carlosvazquez5.jpg",
       "original_filename": "IMG_5047.jpeg",
-      "uploaded": false
+      "uploaded": true
     },
     {
       "roster_id": 10,
@@ -93,7 +93,7 @@
       "team_name": "El SACA",
       "filename": "10_ELSACA.jpg",
       "original_filename": "IMG_5062.jpeg",
-      "uploaded": false
+      "uploaded": true
     }
   ]
 }

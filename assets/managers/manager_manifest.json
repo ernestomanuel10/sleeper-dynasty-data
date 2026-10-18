@@ -1,0 +1,99 @@
+{
+  "league_id": "1312063648402776064",
+  "season": "2026",
+  "image_base_path": "assets/managers/",
+  "status": "image_files_pending_upload",
+  "note": "Mappings verified from 2026 Sleeper data and user-supplied labeled photos. JPEG binaries must be uploaded separately; do not assume they exist.",
+  "managers": [
+    {
+      "roster_id": 1,
+      "user_id": "1052357736794574848",
+      "display_name": "xxernestitoxx",
+      "team_name": "OKC THUNDER⚡️",
+      "filename": "01_xxernestitoxx.jpg",
+      "original_filename": "IMG_3054.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 2,
+      "user_id": "1129228562780921856",
+      "display_name": "joaquinpando3",
+      "team_name": null,
+      "filename": "02_joaquinpando3.jpg",
+      "original_filename": "IMG_5051.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 3,
+      "user_id": "1129150156781285376",
+      "display_name": "Alejandrolongo",
+      "team_name": null,
+      "filename": "03_Alejandrolongo.jpg",
+      "original_filename": "IMG_5067.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 4,
+      "user_id": "1129149316393791488",
+      "display_name": "ruloelcomeculo",
+      "team_name": "RuloElJudio",
+      "filename": "04_ruloelcomeculo.jpg",
+      "original_filename": "IMG_1225.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 5,
+      "user_id": "1208152663028408320",
+      "display_name": "elgato0405",
+      "team_name": null,
+      "filename": "05_elgato0405.jpg",
+      "original_filename": "IMG_5063.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 6,
+      "user_id": "1259973024686288896",
+      "display_name": "ManRobert23",
+      "team_name": null,
+      "filename": "06_ManRobert23.jpg",
+      "original_filename": "IMG_5065.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 7,
+      "user_id": "1129149483712966656",
+      "display_name": "Marianojmarina",
+      "team_name": null,
+      "filename": "07_Marianojmarina.jpg",
+      "original_filename": "IMG_1231.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 8,
+      "user_id": "997228165233750016",
+      "display_name": "NicoMunera",
+      "team_name": "CupeyBajoFC",
+      "filename": "08_NicoMunera.jpg",
+      "original_filename": "IMG_1228.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 9,
+      "user_id": "1120476524852920320",
+      "display_name": "carlosvazquez5",
+      "team_name": null,
+      "filename": "09_carlosvazquez5.jpg",
+      "original_filename": "IMG_5047.jpeg",
+      "uploaded": false
+    },
+    {
+      "roster_id": 10,
+      "user_id": "1129150730113343488",
+      "display_name": "ELSACA",
+      "team_name": "El SACA",
+      "filename": "10_ELSACA.jpg",
+      "original_filename": "IMG_5062.jpeg",
+      "uploaded": false
+    }
+  ]
+}

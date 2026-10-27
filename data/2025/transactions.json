@@ -2089,12 +2089,12 @@
     "adds": {
       "7527": 2
     },
-    "consenter_ids": [
-      2
-    ],
     "drops": {
       "3161": 2
     },
+    "consenter_ids": [
+      2
+    ],
     "roster_ids": [
       2
     ],
@@ -2115,12 +2115,12 @@
     "adds": {
       "11783": 1
     },
-    "consenter_ids": [
-      1
-    ],
     "drops": {
       "1234": 1
     },
+    "consenter_ids": [
+      1
+    ],
     "roster_ids": [
       1
     ],
@@ -2141,10 +2141,10 @@
     "adds": {
       "11647": 4
     },
+    "drops": null,
     "consenter_ids": [
       4
     ],
-    "drops": null,
     "roster_ids": [
       4
     ],
@@ -2165,12 +2165,12 @@
     "adds": {
       "4454": 2
     },
-    "consenter_ids": [
-      2
-    ],
     "drops": {
       "19": 2
     },
+    "consenter_ids": [
+      2
+    ],
     "roster_ids": [
       2
     ],
@@ -2192,14 +2192,14 @@
       "6819": 7,
       "8183": 2
     },
-    "consenter_ids": [
-      2,
-      7
-    ],
     "drops": {
       "6819": 2,
       "8183": 7
     },
+    "consenter_ids": [
+      2,
+      7
+    ],
     "roster_ids": [
       2,
       7
@@ -2221,10 +2221,10 @@
     "adds": {
       "11603": 6
     },
+    "drops": null,
     "consenter_ids": [
       6
     ],
-    "drops": null,
     "roster_ids": [
       6
     ],
@@ -2243,12 +2243,12 @@
     "creator": "997228165233750016",
     "transaction_id": "1281660600673370112",
     "adds": null,
-    "consenter_ids": [
-      8
-    ],
     "drops": {
       "11557": 8
     },
+    "consenter_ids": [
+      8
+    ],
     "roster_ids": [
       8
     ],
@@ -2267,12 +2267,12 @@
     "creator": "997228165233750016",
     "transaction_id": "1281660572244389888",
     "adds": null,
-    "consenter_ids": [
-      8
-    ],
     "drops": {
       "6111": 8
     },
+    "consenter_ids": [
+      8
+    ],
     "roster_ids": [
       8
     ],
@@ -3622,12 +3622,12 @@
     "adds": {
       "12487": 1
     },
-    "drops": {
-      "9482": 1
-    },
     "consenter_ids": [
       1
     ],
+    "drops": {
+      "9482": 1
+    },
     "roster_ids": [
       1
     ],

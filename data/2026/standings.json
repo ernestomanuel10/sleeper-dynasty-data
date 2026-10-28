@@ -57,7 +57,7 @@
     "losses": 5,
     "ties": 0,
     "points_for": 985.12,
-    "points_against": 1047.72
+    "points_against": 1047.62
   },
   {
     "roster_id": 3,
@@ -96,7 +96,7 @@
     "wins": 1,
     "losses": 6,
     "ties": 0,
-    "points_for": 707.28,
+    "points_for": 707.18,
     "points_against": 1024.54
   }
 ]

@@ -64,9 +64,6 @@
   },
   "avatar": null,
   "company_id": null,
-  "sport": "nfl",
-  "season_type": "regular",
-  "season": "2026",
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
@@ -112,6 +109,9 @@
     "pts_allow_7_13": 4.0,
     "st_ff": 1.0
   },
+  "season": "2026",
+  "season_type": "regular",
+  "sport": "nfl",
   "shard": 579,
   "last_message_id": "1421297137660014592",
   "draft_id": "1312063648406986752",
@@ -129,6 +129,8 @@
   "bracket_id": null,
   "bracket_overrides_id": null,
   "group_id": null,
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -155,7 +157,5 @@
     "BN",
     "BN"
   ],
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "total_rosters": 10
 }

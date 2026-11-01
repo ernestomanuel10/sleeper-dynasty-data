@@ -10,16 +10,16 @@
       "seq": 4
     },
     "leg": 2,
-    "creator": "997228165233750016",
     "draft_picks": [],
+    "creator": "997228165233750016",
     "transaction_id": "1273745324657111040",
     "adds": {
       "6111": 8
     },
-    "drops": null,
     "consenter_ids": [
       8
     ],
+    "drops": null,
     "roster_ids": [
       8
     ],
@@ -37,16 +37,16 @@
       "seq": 1
     },
     "leg": 2,
-    "creator": "997228165233750016",
     "draft_picks": [],
+    "creator": "997228165233750016",
     "transaction_id": "1273696529730785280",
     "adds": {
       "6111": 8
     },
-    "drops": null,
     "consenter_ids": [
       8
     ],
+    "drops": null,
     "roster_ids": [
       8
     ],
@@ -64,18 +64,18 @@
       "seq": 0
     },
     "leg": 2,
-    "creator": "1120476524852920320",
     "draft_picks": [],
+    "creator": "1120476524852920320",
     "transaction_id": "1273670926004682752",
     "adds": {
       "8208": 9
     },
-    "drops": {
-      "12475": 9
-    },
     "consenter_ids": [
       9
     ],
+    "drops": {
+      "12475": 9
+    },
     "roster_ids": [
       9
     ],
@@ -93,16 +93,16 @@
       "seq": 2
     },
     "leg": 2,
-    "creator": "1129228562780921856",
     "draft_picks": [],
+    "creator": "1129228562780921856",
     "transaction_id": "1273661033235361792",
     "adds": {
       "5955": 2
     },
-    "drops": null,
     "consenter_ids": [
       2
     ],
+    "drops": null,
     "roster_ids": [
       2
     ],
@@ -120,16 +120,16 @@
       "seq": 3
     },
     "leg": 2,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1273484029215117312",
     "adds": {
       "11583": 1
     },
-    "drops": null,
     "consenter_ids": [
       1
     ],
+    "drops": null,
     "roster_ids": [
       1
     ],
@@ -143,16 +143,16 @@
     "created": 1757984617522,
     "settings": null,
     "leg": 2,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1273483422999797760",
     "adds": null,
-    "drops": {
-      "6828": 1
-    },
     "consenter_ids": [
       1
     ],
+    "drops": {
+      "6828": 1
+    },
     "roster_ids": [
       1
     ],
@@ -166,18 +166,18 @@
     "created": 1757867860712,
     "settings": null,
     "leg": 2,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1272993709444599808",
     "adds": {
       "9482": 1
     },
-    "drops": {
-      "9506": 1
-    },
     "consenter_ids": [
       1
     ],
+    "drops": {
+      "9506": 1
+    },
     "roster_ids": [
       1
     ],
@@ -191,16 +191,16 @@
     "created": 1757866776663,
     "settings": null,
     "leg": 2,
-    "creator": "997228165233750016",
     "draft_picks": [],
+    "creator": "997228165233750016",
     "transaction_id": "1272989162613506048",
     "adds": {
       "4040": 8
     },
-    "drops": null,
     "consenter_ids": [
       8
     ],
+    "drops": null,
     "roster_ids": [
       8
     ],
@@ -214,16 +214,16 @@
     "created": 1757512566001,
     "settings": null,
     "leg": 2,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1271503495417069568",
     "adds": {
       "8180": 1
     },
-    "drops": null,
     "consenter_ids": [
       1
     ],
+    "drops": null,
     "roster_ids": [
       1
     ],
@@ -241,16 +241,16 @@
       "seq": 0
     },
     "leg": 2,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1271503318404853760",
     "adds": {
       "1234": 1
     },
-    "drops": null,
     "consenter_ids": [
       1
     ],
+    "drops": null,
     "roster_ids": [
       1
     ],
@@ -264,16 +264,16 @@
     "created": 1757512491533,
     "settings": null,
     "leg": 2,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1271503183075622913",
     "adds": {
       "7567": 1
     },
-    "drops": null,
     "consenter_ids": [
       1
     ],
+    "drops": null,
     "roster_ids": [
       1
     ],

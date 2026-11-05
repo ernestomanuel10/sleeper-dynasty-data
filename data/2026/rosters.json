@@ -209,7 +209,9 @@
       "9753",
       "9754"
     ],
-    "reserve": null,
+    "reserve": [
+      "11630"
+    ],
     "roster_id": 3,
     "settings": {
       "division": 1,

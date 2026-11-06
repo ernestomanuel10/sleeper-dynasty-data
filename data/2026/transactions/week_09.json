@@ -1,6 +1,44 @@
 [
   {
     "status": "complete",
+    "type": "trade",
+    "metadata": null,
+    "created": 1793922159995,
+    "settings": null,
+    "leg": 9,
+    "draft_picks": [
+      {
+        "round": 2,
+        "season": "2028",
+        "league_id": null,
+        "roster_id": 10,
+        "owner_id": 1,
+        "previous_owner_id": 10
+      }
+    ],
+    "creator": "1129150730113343488",
+    "transaction_id": "1424216401144455168",
+    "adds": {
+      "12507": 10,
+      "5967": 1
+    },
+    "drops": {
+      "12507": 1,
+      "5967": 10
+    },
+    "consenter_ids": [
+      1,
+      10
+    ],
+    "roster_ids": [
+      1,
+      10
+    ],
+    "status_updated": 1793955073088,
+    "waiver_budget": []
+  },
+  {
+    "status": "complete",
     "type": "free_agent",
     "metadata": null,
     "created": 1793910020366,

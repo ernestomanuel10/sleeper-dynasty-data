@@ -1,102 +1,102 @@
 [
   {
+    "roster_id": 9,
+    "owner_id": "1120476524852920320",
+    "display_name": "carlosvazquez5",
+    "wins": 8,
+    "losses": 1,
+    "ties": 0,
+    "points_for": 1328.22,
+    "points_against": 1068.2
+  },
+  {
     "roster_id": 5,
     "owner_id": "1208152663028408320",
     "display_name": "elgato0405",
     "wins": 7,
-    "losses": 1,
+    "losses": 2,
     "ties": 0,
-    "points_for": 1358.42,
-    "points_against": 1025.44
-  },
-  {
-    "roster_id": 9,
-    "owner_id": "1120476524852920320",
-    "display_name": "carlosvazquez5",
-    "wins": 7,
-    "losses": 1,
-    "ties": 0,
-    "points_for": 1180.4,
-    "points_against": 972.6
+    "points_for": 1507.68,
+    "points_against": 1186.92
   },
   {
     "roster_id": 4,
     "owner_id": "1129149316393791488",
     "display_name": "ruloelcomeculo",
-    "wins": 6,
+    "wins": 7,
     "losses": 2,
     "ties": 0,
-    "points_for": 1139.98,
-    "points_against": 1017.8
+    "points_for": 1301.46,
+    "points_against": 1167.06
   },
   {
     "roster_id": 2,
     "owner_id": "1129228562780921856",
     "display_name": "joaquinpando3",
     "wins": 5,
-    "losses": 3,
+    "losses": 4,
     "ties": 0,
-    "points_for": 1204.58,
-    "points_against": 1014.18
+    "points_for": 1300.18,
+    "points_against": 1162.0
   },
   {
     "roster_id": 8,
     "owner_id": "997228165233750016",
     "display_name": "NicoMunera",
-    "wins": 4,
+    "wins": 5,
     "losses": 4,
     "ties": 0,
-    "points_for": 1013.26,
-    "points_against": 983.0
+    "points_for": 1121.5,
+    "points_against": 1078.42
   },
   {
     "roster_id": 1,
     "owner_id": "1052357736794574848",
     "display_name": "xxernestitoxx",
-    "wins": 3,
+    "wins": 4,
     "losses": 5,
     "ties": 0,
-    "points_for": 1116.84,
-    "points_against": 1171.2
+    "points_for": 1252.28,
+    "points_against": 1281.06
   },
   {
     "roster_id": 7,
     "owner_id": "1129149483712966656",
     "display_name": "Marianojmarina",
-    "wins": 3,
+    "wins": 4,
     "losses": 5,
     "ties": 0,
-    "points_for": 1002.14,
-    "points_against": 1203.26
+    "points_for": 1134.02,
+    "points_against": 1284.64
   },
   {
     "roster_id": 3,
     "owner_id": "1129150156781285376",
     "display_name": "Alejandrolongo",
     "wins": 2,
-    "losses": 6,
+    "losses": 7,
     "ties": 0,
-    "points_for": 1006.14,
-    "points_against": 1113.06
+    "points_for": 1101.56,
+    "points_against": 1221.3
   },
   {
     "roster_id": 10,
     "owner_id": "1129150730113343488",
     "display_name": "ELSACA",
     "wins": 2,
-    "losses": 6,
+    "losses": 7,
     "ties": 0,
-    "points_for": 824.56,
-    "points_against": 1139.78
+    "points_for": 905.94,
+    "points_against": 1271.66
   },
   {
     "roster_id": 6,
     "owner_id": "1259973024686288896",
     "display_name": "ManRobert23",
     "wins": 1,
-    "losses": 7,
+    "losses": 8,
     "ties": 0,
-    "points_for": 906.72,
-    "points_against": 1112.72
+    "points_for": 1016.58,
+    "points_against": 1248.16
   }
 ]

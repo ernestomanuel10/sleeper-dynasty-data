@@ -10,12 +10,12 @@
     "creator": "1129150730113343488",
     "transaction_id": "1306701842301865984",
     "adds": null,
-    "consenter_ids": [
-      10
-    ],
     "drops": {
       "7670": 10
     },
+    "consenter_ids": [
+      10
+    ],
     "roster_ids": [
       10
     ],
@@ -33,12 +33,12 @@
     "creator": "1052357736794574848",
     "transaction_id": "1305223375345426432",
     "adds": null,
-    "consenter_ids": [
-      1
-    ],
     "drops": {
       "10218": 1
     },
+    "consenter_ids": [
+      1
+    ],
     "roster_ids": [
       1
     ],

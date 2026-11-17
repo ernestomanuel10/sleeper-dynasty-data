@@ -14,8 +14,8 @@
       "p_nick_7588": "Kenrich Williams",
       "p_nick_7594": "Isaiah Hartenstein",
       "p_nick_9756": "",
-      "record": "LLLLWLWWW",
-      "streak": "3W"
+      "record": "LLLLWLWWWW",
+      "streak": "4W"
     },
     "owner_id": "1052357736794574848",
     "player_map": null,
@@ -56,18 +56,18 @@
     "roster_id": 1,
     "settings": {
       "division": 1,
-      "fpts": 1252,
-      "fpts_against": 1281,
-      "fpts_against_decimal": 6,
-      "fpts_decimal": 28,
+      "fpts": 1446,
+      "fpts_against": 1425,
+      "fpts_against_decimal": 66,
+      "fpts_decimal": 86,
       "losses": 5,
-      "ppts": 1473,
-      "ppts_decimal": 34,
+      "ppts": 1699,
+      "ppts_decimal": 42,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 3,
-      "wins": 4
+      "wins": 5
     },
     "starters": [
       "4046",
@@ -90,8 +90,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "WLWLWWWLL",
-      "streak": "2L"
+      "record": "WLWLWWWLLW",
+      "streak": "1W"
     },
     "owner_id": "1129228562780921856",
     "player_map": null,
@@ -135,18 +135,18 @@
     "roster_id": 2,
     "settings": {
       "division": 2,
-      "fpts": 1300,
-      "fpts_against": 1162,
-      "fpts_against_decimal": 0,
-      "fpts_decimal": 18,
+      "fpts": 1499,
+      "fpts_against": 1235,
+      "fpts_against_decimal": 52,
+      "fpts_decimal": 86,
       "losses": 4,
-      "ppts": 1554,
-      "ppts_decimal": 18,
+      "ppts": 1758,
+      "ppts_decimal": 76,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 7,
-      "wins": 5
+      "wins": 6
     },
     "starters": [
       "8183",
@@ -170,8 +170,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "LWLLLWLLL",
-      "streak": "3L"
+      "record": "LWLLLWLLLL",
+      "streak": "4L"
     },
     "owner_id": "1129150156781285376",
     "player_map": null,
@@ -215,13 +215,13 @@
     "roster_id": 3,
     "settings": {
       "division": 1,
-      "fpts": 1101,
-      "fpts_against": 1221,
-      "fpts_against_decimal": 30,
-      "fpts_decimal": 56,
-      "losses": 7,
-      "ppts": 1395,
-      "ppts_decimal": 64,
+      "fpts": 1224,
+      "fpts_against": 1384,
+      "fpts_against_decimal": 78,
+      "fpts_decimal": 90,
+      "losses": 8,
+      "ppts": 1530,
+      "ppts_decimal": 68,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -251,8 +251,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "WWWWLWLWW",
-      "streak": "2W"
+      "record": "WWWWLWLWWL",
+      "streak": "1L"
     },
     "owner_id": "1129149316393791488",
     "player_map": null,
@@ -293,13 +293,13 @@
     "roster_id": 4,
     "settings": {
       "division": 2,
-      "fpts": 1301,
-      "fpts_against": 1167,
-      "fpts_against_decimal": 6,
-      "fpts_decimal": 46,
-      "losses": 2,
-      "ppts": 1496,
-      "ppts_decimal": 96,
+      "fpts": 1446,
+      "fpts_against": 1361,
+      "fpts_against_decimal": 64,
+      "fpts_decimal": 6,
+      "losses": 3,
+      "ppts": 1660,
+      "ppts_decimal": 66,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -327,8 +327,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "WLWWWWWWL",
-      "streak": "1L"
+      "record": "WLWWWWWWLW",
+      "streak": "1W"
     },
     "owner_id": "1208152663028408320",
     "player_map": null,
@@ -359,33 +359,31 @@
       "7523",
       "7594",
       "8167",
-      "9482",
       "9488"
     ],
     "reserve": [
-      "4033",
       "5927"
     ],
     "roster_id": 5,
     "settings": {
       "division": 1,
-      "fpts": 1507,
-      "fpts_against": 1186,
-      "fpts_against_decimal": 92,
-      "fpts_decimal": 68,
+      "fpts": 1671,
+      "fpts_against": 1310,
+      "fpts_against_decimal": 26,
+      "fpts_decimal": 16,
       "losses": 2,
-      "ppts": 1680,
-      "ppts_decimal": 12,
+      "ppts": 1865,
+      "ppts_decimal": 20,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 4,
-      "wins": 7
+      "wins": 8
     },
     "starters": [
       "7523",
       "6813",
-      "6790",
+      "12495",
       "9488",
       "8167",
       "11604",
@@ -404,8 +402,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "LLLLWLLLL",
-      "streak": "4L"
+      "record": "LLLLWLLLLL",
+      "streak": "5L"
     },
     "owner_id": "1259973024686288896",
     "player_map": null,
@@ -448,13 +446,13 @@
     "roster_id": 6,
     "settings": {
       "division": 2,
-      "fpts": 1016,
-      "fpts_against": 1248,
-      "fpts_against_decimal": 16,
-      "fpts_decimal": 58,
-      "losses": 8,
-      "ppts": 1215,
-      "ppts_decimal": 40,
+      "fpts": 1090,
+      "fpts_against": 1447,
+      "fpts_against_decimal": 84,
+      "fpts_decimal": 10,
+      "losses": 9,
+      "ppts": 1309,
+      "ppts_decimal": 32,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -482,8 +480,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "LWWLLLLWW",
-      "streak": "2W"
+      "record": "LWWLLLLWWL",
+      "streak": "1L"
     },
     "owner_id": "1129149483712966656",
     "player_map": null,
@@ -526,13 +524,13 @@
     "roster_id": 7,
     "settings": {
       "division": 1,
-      "fpts": 1134,
-      "fpts_against": 1284,
-      "fpts_against_decimal": 64,
-      "fpts_decimal": 2,
-      "losses": 5,
-      "ppts": 1429,
-      "ppts_decimal": 88,
+      "fpts": 1266,
+      "fpts_against": 1427,
+      "fpts_against_decimal": 60,
+      "fpts_decimal": 0,
+      "losses": 6,
+      "ppts": 1597,
+      "ppts_decimal": 78,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -560,8 +558,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "WWLWLLWLW",
-      "streak": "1W"
+      "record": "WWLWLLWLWW",
+      "streak": "2W"
     },
     "owner_id": "997228165233750016",
     "player_map": null,
@@ -601,18 +599,18 @@
     "roster_id": 8,
     "settings": {
       "division": 2,
-      "fpts": 1121,
-      "fpts_against": 1078,
-      "fpts_against_decimal": 42,
-      "fpts_decimal": 50,
+      "fpts": 1256,
+      "fpts_against": 1188,
+      "fpts_against_decimal": 58,
+      "fpts_decimal": 20,
       "losses": 4,
-      "ppts": 1321,
-      "ppts_decimal": 68,
+      "ppts": 1462,
+      "ppts_decimal": 58,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 2,
-      "wins": 5
+      "wins": 6
     },
     "starters": [
       "6770",
@@ -637,8 +635,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "WWWWWWWLW",
-      "streak": "1W"
+      "record": "WWWWWWWLWW",
+      "streak": "2W"
     },
     "owner_id": "1120476524852920320",
     "player_map": null,
@@ -678,18 +676,18 @@
     "roster_id": 9,
     "settings": {
       "division": 1,
-      "fpts": 1328,
-      "fpts_against": 1068,
-      "fpts_against_decimal": 20,
-      "fpts_decimal": 22,
+      "fpts": 1471,
+      "fpts_against": 1200,
+      "fpts_against_decimal": 18,
+      "fpts_decimal": 18,
       "losses": 1,
-      "ppts": 1447,
-      "ppts_decimal": 74,
+      "ppts": 1611,
+      "ppts_decimal": 58,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 5,
-      "wins": 8
+      "wins": 9
     },
     "starters": [
       "11564",
@@ -713,8 +711,8 @@
     "keepers": null,
     "league_id": "1312063648402776064",
     "metadata": {
-      "record": "LLLWLLLWL",
-      "streak": "1L"
+      "record": "LLLWLLLWLL",
+      "streak": "2L"
     },
     "owner_id": "1129150730113343488",
     "player_map": null,
@@ -759,13 +757,13 @@
     "roster_id": 10,
     "settings": {
       "division": 2,
-      "fpts": 905,
-      "fpts_against": 1271,
-      "fpts_against_decimal": 66,
-      "fpts_decimal": 94,
-      "losses": 7,
-      "ppts": 1194,
-      "ppts_decimal": 70,
+      "fpts": 1016,
+      "fpts_against": 1406,
+      "fpts_against_decimal": 36,
+      "fpts_decimal": 10,
+      "losses": 8,
+      "ppts": 1329,
+      "ppts_decimal": 56,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,

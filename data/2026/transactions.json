@@ -6321,6 +6321,30 @@
     "status": "complete",
     "type": "free_agent",
     "metadata": null,
+    "created": 1795288504225,
+    "settings": null,
+    "leg": 11,
+    "draft_picks": [],
+    "creator": "1259973024686288896",
+    "transaction_id": "1429947264213729280",
+    "adds": null,
+    "consenter_ids": [
+      6
+    ],
+    "drops": {
+      "2306": 6
+    },
+    "roster_ids": [
+      6
+    ],
+    "status_updated": 1795288504225,
+    "waiver_budget": []
+  },
+  {
+    "week": 11,
+    "status": "complete",
+    "type": "free_agent",
+    "metadata": null,
     "created": 1795058766565,
     "settings": null,
     "leg": 11,
@@ -6330,12 +6354,12 @@
     "adds": {
       "11292": 2
     },
-    "drops": {
-      "12969": 2
-    },
     "consenter_ids": [
       2
     ],
+    "drops": {
+      "12969": 2
+    },
     "roster_ids": [
       2
     ],

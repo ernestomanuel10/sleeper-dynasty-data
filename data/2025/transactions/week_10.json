@@ -34,8 +34,8 @@
     "draft_picks": [
       {
         "round": 1,
-        "league_id": null,
         "season": "2026",
+        "league_id": null,
         "roster_id": 5,
         "owner_id": 1,
         "previous_owner_id": 3

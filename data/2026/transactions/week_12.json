@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "status": "complete",
+    "type": "trade",
+    "metadata": null,
+    "created": 1795653771235,
+    "settings": null,
+    "leg": 12,
+    "draft_picks": [
+      {
+        "round": 2,
+        "league_id": null,
+        "season": "2027",
+        "roster_id": 5,
+        "owner_id": 4,
+        "previous_owner_id": 1
+      }
+    ],
+    "creator": "1129149316393791488",
+    "transaction_id": "1431479305094840320",
+    "adds": {
+      "9487": 4,
+      "9493": 1
+    },
+    "consenter_ids": [
+      1,
+      4
+    ],
+    "drops": {
+      "9487": 1,
+      "9493": 4
+    },
+    "roster_ids": [
+      1,
+      4
+    ],
+    "status_updated": 1795654120042,
+    "waiver_budget": []
+  }
+]

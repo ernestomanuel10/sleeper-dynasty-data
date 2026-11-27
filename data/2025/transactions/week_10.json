@@ -6,8 +6,8 @@
     "created": 1762908759061,
     "settings": null,
     "leg": 10,
-    "draft_picks": [],
     "creator": "1129150156781285376",
+    "draft_picks": [],
     "transaction_id": "1294136769553383424",
     "adds": null,
     "consenter_ids": [
@@ -31,17 +31,17 @@
       "is_counter": 1
     },
     "leg": 10,
+    "creator": "1052357736794574848",
     "draft_picks": [
       {
         "round": 1,
-        "season": "2026",
         "league_id": null,
+        "season": "2026",
         "roster_id": 5,
         "owner_id": 1,
         "previous_owner_id": 3
       }
     ],
-    "creator": "1052357736794574848",
     "transaction_id": "1294135156898033664",
     "adds": {
       "12500": 3,
@@ -75,8 +75,8 @@
       "seq": 2
     },
     "leg": 10,
-    "draft_picks": [],
     "creator": "1208152663028408320",
+    "draft_picks": [],
     "transaction_id": "1294020933408804864",
     "adds": {
       "9506": 5
@@ -102,8 +102,8 @@
       "seq": 0
     },
     "leg": 10,
-    "draft_picks": [],
     "creator": "1129228562780921856",
+    "draft_picks": [],
     "transaction_id": "1293706055448031232",
     "adds": {
       "4177": 2
@@ -129,8 +129,8 @@
       "seq": 1
     },
     "leg": 10,
-    "draft_picks": [],
     "creator": "1208152663028408320",
+    "draft_picks": [],
     "transaction_id": "1293346614475259904",
     "adds": {
       "5906": 5
@@ -154,8 +154,8 @@
     "created": 1762437577344,
     "settings": null,
     "leg": 10,
-    "draft_picks": [],
     "creator": "1120476524852920320",
+    "draft_picks": [],
     "transaction_id": "1292160490193051648",
     "adds": {
       "11199": 9
@@ -177,8 +177,8 @@
     "created": 1762375912829,
     "settings": null,
     "leg": 10,
-    "draft_picks": [],
     "creator": "1129228562780921856",
+    "draft_picks": [],
     "transaction_id": "1291901850466930688",
     "adds": {
       "1426": 2
@@ -200,8 +200,8 @@
     "created": 1762375820414,
     "settings": null,
     "leg": 10,
-    "draft_picks": [],
     "creator": "1129228562780921856",
+    "draft_picks": [],
     "transaction_id": "1291901462854529024",
     "adds": null,
     "consenter_ids": [
@@ -223,8 +223,8 @@
     "created": 1762372564435,
     "settings": null,
     "leg": 10,
-    "draft_picks": [],
     "creator": "1052357736794574848",
+    "draft_picks": [],
     "transaction_id": "1291887806288760832",
     "adds": {
       "10218": 1

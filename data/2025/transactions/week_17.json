@@ -6,16 +6,16 @@
     "created": 1766931469475,
     "settings": null,
     "leg": 17,
-    "creator": "1052357736794574848",
     "draft_picks": [],
+    "creator": "1052357736794574848",
     "transaction_id": "1311009239933677568",
     "adds": {
       "12472": 1
     },
+    "drops": null,
     "consenter_ids": [
       1
     ],
-    "drops": null,
     "roster_ids": [
       1
     ],
